@@ -522,6 +522,7 @@ h1 {
 }
 .footer-action {
     display: flex;
+    gap: 24px;
 }
 .footer-label {
     gap: 24px;
