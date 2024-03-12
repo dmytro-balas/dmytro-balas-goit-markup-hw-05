@@ -489,6 +489,7 @@ h1 {
     color: #ffffff;
 }
 .social-media-container {
+    margin-right: 80px;
 }
 .footer-logo-subtitle {
     margin-right: 120px;
@@ -574,6 +575,7 @@ h1 {
 }
 .footer-button-strelka {
     margin-left: 16px;
+    fill: #ffffff;
 }
 .modal-window {
     position: fixed;
