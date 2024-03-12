@@ -622,12 +622,7 @@ h1 {
     border: none;
     fill: #ffffff;
 }
-.modal-input-icon svg {
-    fill: none;
-}
-.modal-input input:focus+.modal-input-icon svg {
-    fill: #4D5AE5;
-}
+
 .modal-div-icon {
     transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
@@ -683,7 +678,10 @@ h1 {
     transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
     
 }
-.modal-label-input .modal-input-icon:focus {
+.modal-input-icon svg {
+    fill: none;
+}
+.modal-input input:focus+.modal-input-icon svg {
     fill: #4D5AE5;
 }
 
