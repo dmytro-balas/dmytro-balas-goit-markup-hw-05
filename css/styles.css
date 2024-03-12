@@ -741,6 +741,10 @@ h1 {
     color: #4d5ae5;
     text-decoration: underline;
 }
+.form-btn {
+    display: flex;
+    justify-content: center;
+}
 .form-checkbox-btn {
     display: block;
     min-width: 169px;
